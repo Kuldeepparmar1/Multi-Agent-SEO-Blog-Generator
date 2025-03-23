@@ -63,8 +63,5 @@ The generated blog content will be saved as `blog_post.md`.
 - 🌐 Integrate multilingual support.
 - 📊 Improve content quality with additional NLP models.
 
-## 📜 License
-This project is licensed under the **MIT License**.
 
-💡 *Contributions are welcome! Feel free to fork and improve the project.*
 
